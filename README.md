@@ -11,8 +11,7 @@ Pretendo ingressar na área profissional **engenheira de software**.
 ##  Algumas curiosidades sobre mim:
 
 - **inglês intermediário** 
-- Interesse em projetos com **Arduino** e
-- Um certo domínio nessa área
+- Interesse em projetos com **Arduino** 
 - Facilidade com disciplinas de **exatas**
 
 ---
