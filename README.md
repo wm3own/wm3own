@@ -1,6 +1,5 @@
-##  Sobre mim
-
 17 anos
+
 Tecnica em Desenvolvimento de Sistemas | 💻
 
 
